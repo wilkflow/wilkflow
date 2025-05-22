@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @wilkflow
-- 👀 I’m interested in ...burger
-- 🌱 I’m currently learning ...water
-- 💞️ I’m looking to collaborate on ...last week
-- 📫 How to reach me ...use tommorow
+savva
 
 <!---
 wilkflow/wilkflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
